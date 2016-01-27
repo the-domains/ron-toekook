@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ron Toekook]]></title>
         <description><![CDATA[Ron Toekook]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ron-toekook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 09:04:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 09:04:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ron-toekook/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The ASC -- American Cinematographer: ASC Spotlight Nominees:]]></title>
+            <description><![CDATA[<article><h1>The ASC -- American Cinematographer: ASC Spotlight Nominees:</h1><p>The desire for visual precision also motivated the choice of two focal lengths: 40mm for most of the picture, 35mm for the rest. "Approximately 85 percent of the film was shot on a 40mm," said the cinematographer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b1782bb925fc580d18371221e2ed5b13931f19d.jpg"></article>]]></description>
+            <link>http://www.theasc.com/ac_magazine/January2016/ASCSpotlightNominees/page3.php</link>
+            <guid isPermaLink="false">5257ecb4-0284-489a-b053-5d0cccdb598b</guid>
+            <pubDate>Wed, 27 Jan 2016 09:04:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to my world. Disruption and innovation are key for me to create a better world, beauty and love. Join me in my quest to find great ideas, exiting dreams and fantastic realities that help us define who we are and achieve what we want. Not everyone will succeed at creating their dreams and hopes, and yet we need to at least try. Hard. Very hard. </p>]]></description>
-            <link>undefined374ce33a-8cb2-4166-932b-5745dbf883ca/index.html</link>
+            <link>https://thegrid.ai/ron-toekook/374ce33a-8cb2-4166-932b-5745dbf883ca/index.html</link>
             <guid isPermaLink="false">374ce33a-8cb2-4166-932b-5745dbf883ca</guid>
             <pubDate>Wed, 27 Jan 2016 09:04:08 GMT</pubDate>
         </item>
